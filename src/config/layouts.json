@@ -1,0 +1,41 @@
+{
+  "PS4": [
+    "X",
+    "O",
+    "□",
+    "△",
+    "L1",
+    "R1",
+    "L2",
+    "R2",
+    "SHARE",
+    "OPTIONS",
+    "L3",
+    "R3",
+    "UP",
+    "DOWN",
+    "LEFT",
+    "RIGHT",
+    "HOME",
+    "TOUCHBAR"
+  ],
+  "XBOX":[
+    "A",
+    "B",
+    "X",
+    "Y",
+    "LB",
+    "RB",
+    "LT",
+    "RT",
+    "TOGGLE",
+    "OPTIONS",
+    "LPRESS",
+    "RPRESS",
+    "UP",
+    "DOWN",
+    "LEFT",
+    "RIGHT",
+    "HOME"
+  ]
+}
